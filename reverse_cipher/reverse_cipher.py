@@ -2,9 +2,8 @@
 
 # https://nostarch.com/crackingcodesresources (BSD Licensed)
 
-# Saving the original message as a string 
-## As is, whenever we want to encrypt or decrypt a string, we can just copy in here. 
-message = '.daed era meht fo owt fi ,terces a peek nac eerhT'
+# Asking our user for an input message
+message = input("Hello! Enter a spooky, secret message you'd like to encrypt: ")
 
 # Setting up an empty string for our translation 
 translated = ''
