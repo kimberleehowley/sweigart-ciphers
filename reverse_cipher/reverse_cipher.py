@@ -3,7 +3,7 @@
 # https://nostarch.com/crackingcodesresources (BSD Licensed)
 
 # Asking our user for an input message
-message = input("Hello! Enter a spooky, secret message you'd like to encrypt: ")
+message = input("Hello! Enter a spooooooooky, secret message you'd like to encrypt: ")
 
 # Setting up an empty string for our translation 
 translated = ''
